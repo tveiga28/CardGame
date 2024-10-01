@@ -2,7 +2,7 @@
 dealingCards();
 
 function dealingCards() {
-    //# first commit
+   
     //GENERATING CARD VALUES
 
     //generating 5 random numbers between 1 and 13 and assigning them to variables
